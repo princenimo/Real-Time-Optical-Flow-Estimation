@@ -1,7 +1,7 @@
 # RAFT
 This repository is the implemenation of our final project, Real-Time Optical Flow Estimation, for CS 395T Advanced Computer Vision:
 
-## [Paper](hhttps://drive.google.com/file/d/1zIWTUlf41TJ5CPykoQGw1tdHCU-Mr8DK/view?usp=sharing) | [Video](https://youtu.be/YT_fP2no8LM) 
+## [Paper](https://drive.google.com/file/d/1zIWTUlf41TJ5CPykoQGw1tdHCU-Mr8DK/view?usp=sharing) | [Video](https://youtu.be/YT_fP2no8LM) 
 
 [RAFT: Recurrent All Pairs Field Transforms for Optical Flow](https://arxiv.org/pdf/2003.12039.pdf)<br/>
 ECCV 2020 <br/>
